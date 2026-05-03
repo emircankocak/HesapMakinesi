@@ -5,4 +5,4 @@ Python ile hazırlanmış hesap makinesi
 - Çıkarma
 - Çarpma
 - Bölme
-- Geçmiş
+- Geçmiş(Sonuçlar)
