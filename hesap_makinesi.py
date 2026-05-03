@@ -58,9 +58,7 @@ while True:
         print("Lütfen 1-4 arası bir işlem deneyin!")
         continue
 
-"""Sonuçlar listesini her bir seçenek altına entegre etmiş olmamın sebebi 
-çıkan sonuçları hemen ardından listeme kaydetmektir.Bu sayede hesap makinesinin 
-geçmiş kısmında kaydedilen sonuçlar bulunmaktadır. """
+
 
 
 
